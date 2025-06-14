@@ -2,17 +2,26 @@
 This is a full-stack machine learning project that predicts temperature using a Linear Regression model trained on a Kaggle weather dataset. It compares the model’s output with live data from a real weather API and shows the difference via a clean web interface.
 ## Features
 Predicts weather using trained ML model.
+
 Build a custom API using Flask to serve predicted temperature data.
+
 Fetches real-time weather from API(OpenWeatherMap).
+
 Compares predicted and real temperatures, and shows the difference.
+
 Flask API and basic frontend interface.
 
 ## Tech Stack
 **Frontend:** HTML
+
 **Backend:** Flask(Python)
+
 **Machine Learning:** scikit-learn, pandas
+
 **APIs Used:**
+
   **Custom Flask API** (to serve predicted temperature)
+  
   **OpenWeatherMap API** (for real-time weather)
 
 ## Installation
