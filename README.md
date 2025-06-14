@@ -30,10 +30,13 @@ Flask API and basic frontend interface.
    
 
 ## Future Improvements
-  Train the model using more advanced algorithms like **Random Forest** for better accuracy
+  Train the model using more advanced algorithms like **Random Forest** for better   accuracy.
+  
   Add chart-based visualization (matplotlib/Plotly).
-  Include error metrics (MAE, RMSE)
-  Predict more weather metrics (humidity, wind speed, etc.)
+  
+  Include error metrics (MAE, RMSE).
+  
+  Predict more weather metrics (humidity, wind speed, etc.).
 
 ## Author
   Rujal Gupta
